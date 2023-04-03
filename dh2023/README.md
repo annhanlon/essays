@@ -4,7 +4,7 @@ We'll use today's workshop to demonstrate some simple steps to create a visual e
 
 ## Milwaukee Polonia
 
-.ve-media height=400px width=75% https://collections.lib.uwm.edu/iiif/info/mke-polonia/36847/manifest.json right 
+.ve-media https://collections.lib.uwm.edu/iiif/info/mke-polonia/36847/manifest.json fit right static
 
 In its day, Milwaukee’s ==Polish-American=={Q1189552} community was among the largest in the United States. The first Polish inhabitant of Milwaukee arrived as early as 1842, and by the turn of the century Polish-Americans formed the second largest ethnic group in the city. 
 
@@ -28,3 +28,7 @@ From his studio on Lincoln Avenue, Roman Kwasniewski captured important events i
 Students at the St. Josaphat parochial school are well represented in the Milwaukee Polonia collection. Numerous recitals and plays are documented, showcasing the elaborate costumes created for many occasions. 
 
 .ve-media https://collections.lib.uwm.edu/iiif/info/mke-polonia/35770/manifest.json
+
+Detail from the glass plate negatives is particularly sharp:
+
+.ve-media https://collections.lib.uwm.edu/iiif/info/mke-polonia/35770/manifest.json static region 2946,2314,1570,1119 
