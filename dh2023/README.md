@@ -31,4 +31,4 @@ Students at the St. Josaphat parochial school are well represented in the Milwau
 
 Detail from the glass plate negatives is particularly sharp:
 
-.ve-media https://collections.lib.uwm.edu/iiif/info/mke-polonia/35770/manifest.json static region 2946,2314,1570,1119 
+.ve-media https://collections.lib.uwm.edu/iiif/info/mke-polonia/35770/manifest.json static region=2946,2314,1570,1119 
