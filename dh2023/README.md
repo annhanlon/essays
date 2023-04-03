@@ -1,25 +1,30 @@
-# Hello, Juncture
+# DH Test Essay
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+We'll use today's workshop to demonstrate some simple steps to create a visual essay using the Juncture tool.
 
-## Aulacophora indica
+## Milwaukee Polonia
 
-.ve-media wc:The_Bug_Peek.jpg right
+.ve-media height=400px width=75% https://collections.lib.uwm.edu/iiif/info/mke-polonia/36847/manifest.json right 
 
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+In its day, Milwaukee’s ==Polish-American=={Q1189552} community was among the largest in the United States. The first Polish inhabitant of Milwaukee arrived as early as 1842, and by the turn of the century Polish-Americans formed the second largest ethnic group in the city. 
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+Most settled in four-square mile area on the South Side known as “Polonia.” This digital collection draws from the work of studio photographer Roman Kwasniewski to illustrate the history of Milwaukee Polonia from the early 1900s through the 1940s. The archive consists of over 32,000 images.
 
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
+## Roman Kwasniewski
 
-## Chitwan National Park, Nepal
+Roman B.J. Kwasniewski was born June 10, 1886 in Chicago, Illinois to Jozef and Wanda (Dyniewicz) Kwasniewski. The family moved to Milwaukee in the 1890s. Roman was educated at Milwaukee public schools until he was ten years old. He attended St. Hyacinth’s parochial school (1898-1900), South Division High School (1900-1904), and Marquette University (1926-1928). In 1913, he opened Park Studio at 1024 West Lincoln Avenue; he closed the business in the mid-1940s. Kwasniewski married Mary Drozniakiewicz, and the couple had three children: Edward, Adele, and Roman. Roman B.J. Kwasniewski passed away in May 1980.
 
-.ve-map Q1075023 right
+.ve-media https://collections.lib.uwm.edu/iiif/info/mke-polonia/34781/manifest.json
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+## The Lincoln Avenue Studio
 
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
+From his studio on Lincoln Avenue, Roman Kwasniewski captured important events in the lives of thousands of Polish-Americans: First Communions, Confirmations, graduations, weddings, and anniversaries. He was widely regarded as his community’s premiere photographer. In addition to his commercial portrait work, Kwasniewski took thousands of pictures of the community in which he lived. His photos show Milwaukee’s Polish-American community during its most cohesive period. The University of Wisconsin-Milwaukee Libraries acquired the physical collection in February 1979 with the assistance of Polanki, the Polish Women’s Club of Milwaukee, and Kwasniewski’s daughter, Adele, and her husband, John Kaczmarowski. It includes over 29,000 negatives, 6,000 prints, as well as lantern slides, photographic postcards, and business documents. It was opened for research in May 1991.
 
-Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
+.ve-media height=400px width=75% https://collections.lib.uwm.edu/iiif/info/mke-polonia/34461/manifest.json left
+
+## Parochial education
+
+Students at the St. Josaphat parochial school are well represented in the Milwaukee Polonia collection. Numerous recitals and plays are documented, showcasing the elaborate costumes created for many occasions. 
+
+.ve-media https://collections.lib.uwm.edu/iiif/info/mke-polonia/35770/manifest.json
