@@ -1,6 +1,6 @@
 # DH Test Essay
 
-We'll use today's workshop to demonstrate some simple steps to create a visual essay using the Juncture tool.
+We'll use today's workshop to demonstrate some simple steps to create a visual essay using the Juncture tools.
 
 ## Milwaukee Polonia
 
