@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "description",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://cdm17272.contentdm.oclc.org/digital/iiif/agdm/14322",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:13384.861328125,2801.2412109375,2151.677734375,2192.27587890625"
+      },
+      "id": "1bcb08f0"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "14cbb681"
+  }
+]
