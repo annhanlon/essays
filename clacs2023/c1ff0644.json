@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "e42ed96a"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "necklace",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/c1ff064476c956ee48c2ac76e55971bc50c2659532e746fd8b7629081252b88a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3367.697021484375,3629.48291015625,331.85791015625,198.4306640625"
+      },
+      "id": "c1ff0644"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ae1cb5ab"
   }
 ]
