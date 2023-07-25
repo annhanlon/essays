@@ -25,4 +25,4 @@ This manuscript map, known as the Tira de Santa Catarina Ixtepeji and housed at 
 Both of the scrolls featured in this essay were made in the Oaxaca region of Milwaukee. We are using an OpenStreetMap to mark the location of the Oaxaca region on a map. The way we are pointing to the region in this section is by using the ID for Oaxaca in the Wikidata database: Q34110. 
 
 #How else could we show the Oaxaca region?
-.ve-map 
+.ve-map 17.055, -96.653889 
