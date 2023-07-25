@@ -20,4 +20,6 @@ These images are part of a mid-sixteenth century Mesoamerican painted manuscript
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/14325/manifest.json
 This manuscript map, known as the Tira de Santa Catarina Ixtepeji and housed at the University of Wisconsin-Milwaukee Library's American Geographical Society Library, is hand-painted and recounts part of the history of Santa Catarina Ixtepeji, in the Ixtlán District in the Sierra Norte region of Oaxaca in southwestern Mexico. The scroll tells the history of leadership and land ownership, and is believed to have been written in both the local Zapotec and Spanish languages. Its purpose was to regularize land titles and ownership in the eyes of the bureaucracy of the Spanish Empire. There are two dates (1691 and 1709 A.D.) inscribed on it that are believed to be the dates it was used as a visual aid in making a presentation to Imperial officials. Similar to the Tulane Codex, this is also post-contact but nearly a century older.
 
+#Where is all this?
 .ve-map Q34110 8 marker width=50% left
+Both of the scrolls featured in this essay were made in the Oaxaca region of Milwaukee. We are using an OpenStreetMap to mark the location of the Oaxaca region on a map. The way we are pointing to the region in this section is by using the ID for Oaxaca in the Wikidata database: Q34110. 
