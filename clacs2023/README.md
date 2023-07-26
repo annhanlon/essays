@@ -22,7 +22,7 @@ This manuscript map, known as the Tira de Santa Catarina Ixtepeji and housed at 
 
 #Where is all this?
 .ve-map Q34110 8 marker width=50% left
-Both of the scrolls featured in this essay were made in the Oaxaca region of Mexico. We are using an OpenStreetMap to mark the location of the Oaxaca region on a map. The way we are pointing to the region in this section is by using the ID for Oaxaca in the Wikidata database: Q34110. 
+Both of the scrolls featured in this essay were made in the Oaxaca region of Mexico. We are using an OpenStreetMap to mark the location of the Oaxaca region on a map. The way we are pointing to the region in this section is by using the Wikidata ID for ==Oaxaca=={Q34110}, which can be found by looking up Oaxaca in [Wikidata](https://www.wikidata.org/) . 
 
 #How else could we show the Oaxaca region?
 .ve-map  Q34110 8 marker width=50% basemaps=Esri_WorldImagery right
