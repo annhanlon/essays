@@ -33,4 +33,5 @@ And here the 50% width limitation has been eliminated, making it easier to see t
 .ve-map  Q34110 8 marker basemaps=Esri_WorldImagery 
 
 #Map layer
-.ve-map 17.055, -96.653889 9 width=50%
+.ve-map 17.055, -96.653889 9 width=50% "Oaxaca, Mexico" "Oaxaca is a region in Mexico, as well as the name of the region's capital city. 
+
