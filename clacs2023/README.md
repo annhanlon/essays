@@ -1,4 +1,4 @@
-# DH Workshop 2023: Juncture and the Tulane Libraries Digital Collections
+.ve-header "DH Workshop 2023: Juncture and the Tulane Libraries Digital Collections"
 
 This workshop will walk you through the steps to set up a Juncture/GitHub account and create a simple digital visual essay. You can do a lot with Juncture, but it's also a great jumping-off point to dip your toe into the GitHub, IIIF, geographic location, and Wikidata waters, if you want it to be. 
 
