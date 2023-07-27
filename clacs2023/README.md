@@ -41,6 +41,6 @@ In this example, the cities are identified simply by locating their Wikidata ID.
 
 #A note on formatting
 This workshop instructor recommends approaching formatting as simply as possible. Consider the Juncture visual essay a scroll, essentially! We are continuing a long tradition, exemplified by the Codex Tulane.
-.ve-media gh:annhanlon/media/codex-tulane/Codex_Tulane.jpg
+.ve-media gh:annhanlon/media/codex-tulane/Codex_Tulane_Full_Scroll.jpg
 
 
