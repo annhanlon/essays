@@ -32,7 +32,7 @@ In this case, the only change is the basemap, which is now using the Esri World 
 And here the 50% width limitation has been eliminated, making it easier to see the location of Oaxaca on the Pacific coast of Mexico, with Veracruz and the Gulf of Mexico to the north. But those locations are not labeled. The best place to find other ways to show maps and locations are here, but please note that sometimes (as of 7/25/2023) not all of the methods work as advertised. [Basic map examples in Juncture](https://www.juncture-digital.org/components/map?id=basic-map-examples)
 .ve-map  Q34110 8 marker basemaps=Esri_WorldImagery 
 
-#Map layer
+#Map layer and Wikidata
 .ve-map 17.055,-96.653889 8 width=50% 
     - Q986132 layer=Cities
     - Q10812451 layer=Cities
