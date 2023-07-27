@@ -37,7 +37,7 @@ And here the 50% width limitation has been eliminated, making it easier to see t
     - Q986132 layer=Cities
     - Q10812451 layer=Cities
     - Q131429 layers=Cities
-    
+In this example, the cities are identified simply by locating their Wikidata ID. One note - the zoom here is important. If it is too narrow, not all of the cities will appear by default. This is something you can play around with until you get it right.     
 
 
 
