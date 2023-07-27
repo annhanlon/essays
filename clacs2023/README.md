@@ -39,5 +39,8 @@ And here the 50% width limitation has been eliminated, making it easier to see t
     - Q131429 layers=Cities
 In this example, the cities are identified simply by locating their Wikidata ID. One note - the zoom here is important. If it is too narrow, not all of the cities will appear by default. This is something you can play around with until you get it right.     
 
+#A note on formatting
+This workshop instructor recommends approaching formatting as simply as possible. Consider the Juncture visual essay a scroll, essentially! We are continuing a long tradition, exemplified by the Codex Tulane.
+.ve-media gh:annhanlon/media/codex-tulane/Codex_Tulane.jpg
 
 
