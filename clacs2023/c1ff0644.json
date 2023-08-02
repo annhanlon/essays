@@ -4,27 +4,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "These symbols demonstrate....",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/c1ff064476c956ee48c2ac76e55971bc50c2659532e746fd8b7629081252b88a",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:2050.528564453125,2921.291259765625,643.188720703125,478.97021484375"
-      },
-      "id": "c1ff0644"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "e42ed96a"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "necklace",
         "purpose": "commenting"
       }
@@ -61,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "a0e2d0ef"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "These symbols demonstrate....",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/c1ff064476c956ee48c2ac76e55971bc50c2659532e746fd8b7629081252b88a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2050.528564453125,2921.291259765625,643.188720703125,478.97021484375"
+      },
+      "id": "c1ff0644"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e42ed96a"
   }
 ]
