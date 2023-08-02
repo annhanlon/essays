@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Aztlan",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/858195441bf702eb30dd71d65b8f44be6eae1f7a4125f854344154575767be7f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:39.86014175415039,152.0323486328125,237.76223373413086,440.5594482421875"
+      },
+      "id": "85819544"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "329c9f27"
+  }
+]
