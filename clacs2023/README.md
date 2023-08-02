@@ -8,9 +8,8 @@ This workshop will walk you through the steps to set up a Juncture/GitHub accoun
 The Codex Tulane or Códice Hamelulpan provides a fascinating example of the adaptability and re-purposing of native texts within changing historical contexts.  Like most post-contact codices, the Codex Tulane was likely composed in the early decades of Spanish rule (ca. 1550s) to establish an authoritative lineage or lineages vying for territorial rights and privileges.  Painted on gessoed pieces of deer hide are 15 generations of royal ancestors spanning 300 years of marital history from two Mixtec-speaking towns, Acatlán and Chila, located in what is today southern Puebla and northern Oaxaca, Mexico.  The document was painted for Mixtec elites to support their claims before Spanish colonial administrators who likely would not have understood the Mixtec glyphs or the rolled out format but would have respected its native provenance and visual impressiveness.  This alone would have conferred on the document a kind of discursive authority which local caciques deployed in their favor. The physical characteristics and textual content of the piece combine pre-contact pictorial conventions of both Mixtec and Aztec indigenous scribes, such as the deerskin substrate and the use of the native calendar, hieroglyphics, and iconography.  Notable too is the continued indigenous practice of beginning the manuscript with references to the creation of the world, iconic places, and principal deities, thereby extending the reign of these two noble houses back into the mythological past and connecting them to the political history of the region.
 
 #Lineage (zooming)
+.ve-media gh:annhanlon/media/codex-tulane/Codex-Tulane.jpg left
 The far end of the document depicts the royal genealogy of Acatlan. In the image below, zoom in on the ==royal couple=={1945,2192,1998,2193}, where symbols depict their xyz... You can find the zoom by creating the media on this page, zooming in to the destination and moving your mouse over the bottom right to find the image coordinates to input. There will be four numbers separated by commas and no spaces. 
-.ve-media gh:annhanlon/media/codex-tulane/Codex-Tulane.jpg
-.ve-annotate
 
 #San Juan Ñumí
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/2328/manifest.json left
@@ -22,7 +21,9 @@ This manuscript map, known as the Tira de Santa Catarina Ixtepeji and housed at 
 
 #Using images from Wikimedia Commons
 .ve-media wc:Aztlan_codex_boturini.jpg left
-Wikimedia Commons describes this image as part of the Boturini Codex. The licensing information indicates that this image is in the public domain. I have used the "left" position tag in order to shrink it to 50% size and position it at the left margin of the screen, with this text on the right. 
+Wikimedia Commons describes this image as part of the Boturini Codex. The licensing information indicates that this image is in the public domain. I have used the "left" position tag in order to shrink it to 50% size and position it at the left margin of the screen, with this text on the right. [^1]
+
+You can zoom in to see the the artist's depiction of the ==Mexica departing from Aztlán=={200,200,400,400}.
 
 
 #Where is all this?
@@ -44,8 +45,7 @@ And here the 50% width limitation has been eliminated, making it easier to see t
     - Q131429 layers=Cities
 In this example, the cities are identified simply by locating their Wikidata ID. One note - the zoom here is important. If it is too narrow, not all of the cities will appear by default. This is something you can play around with until you get it right.     
 
-#Audio in Soundcloud
-.ve-media  https://soundcloud.com/ann-hanlon-646048076/look-here-interview-with-rebecca-holderness
+[^1]: File accessed from Wikimedia Commons on August 2, 2023, at [https://commons.wikimedia.org/wiki/File:Aztlan_codex_boturini.jpg](https://commons.wikimedia.org/wiki/File:Aztlan_codex_boturini.jpg)
 
 #A note on formatting
 This workshop instructor recommends approaching formatting as simply as possible. Consider the Juncture visual essay a scroll, essentially! We are continuing a long tradition, exemplified by the Codex Tulane.
