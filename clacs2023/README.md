@@ -13,7 +13,7 @@ The Codex Tulane or Códice Hamelulpan provides a fascinating example of the ada
 The far end of the document depicts the royal genealogy of Acatlan. In the image below, zoom in on the ==royal couple=={1945,2192,1998,2193}, where symbols depict their xyz... You can find the zoom by creating the media on this page, zooming in to the destination and moving your mouse over the bottom right to find the image coordinates to input. There will be four numbers separated by commas and no spaces. 
 
 #San Juan Ñumí
-.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/2328/manifest.json rightáááá
+.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/2328/manifest.json right
 These images are part of a mid-sixteenth century Mesoamerican painted manuscript on deer hide presented as a map in land litigation in 1802. The codex begins with Mixtec text naming the boundaries of ==San Juan Ñumí=={1983,3185,666,520}, a town in northern Oaxaca. The rest of the codex is pictorial and reads from top to bottom. A mythological origin scene is followed by the genealogies of two ruling dynasties from the polities of Acatlán and likely Chila in the Mixtec-speaking region of southern Puebla. The manuscript is also known as Codex Huamelulpan.
 
 #Tira de Santa Catarina Ixtepeji
