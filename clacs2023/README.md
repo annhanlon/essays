@@ -2,6 +2,8 @@
 
 This workshop will walk you through the steps to set up a Juncture/GitHub account and create a simple digital visual essay. You can do a lot with Juncture, but it's also a great jumping-off point to dip your toe into the GitHub, IIIF, geographic location, and Wikidata waters, if you want it to be..
 
+Another paragraph. 
+
 #Codex Tulane or Códice Hamelulpan
 
 .ve-media gh:annhanlon/media/codex-tulane/Codex_Tulane_on_exhibit.jpg right
