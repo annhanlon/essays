@@ -26,9 +26,10 @@ Wikimedia Commons describes this image as part of the Boturini Codex. The licens
 You can zoom in to see the the artist's depiction of the ==Mexica departing from Aztlán=={200,200,400,400}.
 
 #Side by side
-.ve-media gh:annhanlon/media/codex-tulane/Codex-Tulane.jpg
-.ve-media gh:annhanlon/media/codex-tulane/Acatlan.jpg
-.ve-media gh:annhanlon/media/codex-tulane/Chila.jpg
+.ve-media 
+    - gh:annhanlon/media/codex-tulane/Codex-Tulane.jpg
+    - gh:annhanlon/media/codex-tulane/Acatlan.jpg
+    - gh:annhanlon/media/codex-tulane/Chila.jpg
 
 #Where is all this?
 .ve-map Q34110 8 marker left
