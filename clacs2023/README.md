@@ -18,7 +18,7 @@ The far end of the document depicts the royal genealogy of Acatlan. In the image
 These images are part of a mid-sixteenth century Mesoamerican painted manuscript on deer hide presented as a map in land litigation in 1802. The codex begins with Mixtec text naming the boundaries of ==San Juan Ñumí=={1983,3185,666,520}, a town in northern Oaxaca. The rest of the codex is pictorial and reads from top to bottom. A mythological origin scene is followed by the genealogies of two ruling dynasties from the polities of Acatlán and likely Chila in the Mixtec-speaking region of southern Puebla. The manuscript is also known as Codex Huamelulpan.
 
 #Tira de Santa Catarina Ixtepeji
-.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/14325/manifest.json
+.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/14325/manifest.json 
 This manuscript map, known as the Tira de Santa Catarina Ixtepeji and housed at the University of Wisconsin-Milwaukee Library's American Geographical Society Library, is hand-painted and recounts part of the history of Santa Catarina Ixtepeji, in the Ixtlán District in the Sierra Norte region of Oaxaca in southwestern Mexico. The scroll tells the history of leadership and land ownership, and is believed to have been written in both the local Zapotec and Spanish languages. Its purpose was to regularize land titles and ownership in the eyes of the bureaucracy of the Spanish Empire. There are two dates (1691 and 1709 A.D.) inscribed on it that are believed to be the dates it was used as a visual aid in making a presentation to Imperial officials. Similar to the Tulane Codex, this is also post-contact but nearly a century older.
 
 #Using images from Wikimedia Commons
