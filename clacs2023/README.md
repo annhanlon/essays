@@ -27,15 +27,15 @@ You can zoom in to see the the artist's depiction of the ==Mexica departing from
 
 
 #Where is all this?
-.ve-map Q34110 8 marker width=50% left
+.ve-map Q34110 8 marker left
 Both of the scrolls featured in this essay were made in the Oaxaca region of Mexico. We are using an OpenStreetMap to mark the location of the Oaxaca region on a map. The way we are pointing to the region in this section is by using the Wikidata ID for ==Oaxaca=={Q34110}, which can be found by looking up Oaxaca in [Wikidata](https://www.wikidata.org/) . 
 
 #How else could we show the Oaxaca region?
-.ve-map  Q34110 8 marker width=50% basemaps=Esri_WorldImagery right
+.ve-map  Q34110 8 marker basemaps=Esri_WorldImagery right
 In this case, the only change is the basemap, which is now using the Esri World Imagery map.
 
 #Full width
-And here the 50% width limitation has been eliminated, making it easier to see the location of Oaxaca on the Pacific coast of Mexico, with Veracruz and the Gulf of Mexico to the north. But those locations are not labeled. The best place to find other ways to show maps and locations are here, but please note that sometimes (as of 7/25/2023) not all of the methods work as advertised. [Basic map examples in Juncture](https://www.juncture-digital.org/components/map?id=basic-map-examples)
+And here the 50% width limitation has been eliminated, making it easier to see the location of Oaxaca on the Pacific coast of Mexico, with Veracruz and the Gulf of Mexico to the north. But those locations are not labeled. The best place to find other ways to show maps and locations are here: [Basic map examples in Juncture](https://www.juncture-digital.org/components/map?id=basic-map-examples)
 .ve-map  Q34110 8 marker basemaps=Esri_WorldImagery 
 
 #Map layer and Wikidata
