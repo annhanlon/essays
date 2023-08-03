@@ -11,7 +11,7 @@ The Codex Tulane or Códice Hamelulpan provides a fascinating example of the ada
 
 #Lineage (zooming)
 .ve-media gh:annhanlon/media/codex-tulane/Codex-Tulane.jpg left 
-The far end of the document depicts the royal genealogy of Acatlan. In the image below, zoom in on the ==royal couple=={1945,2192,1998,2193}, where symbols depict their xyz... You can find the zoom by creating the media on this page, zooming in to the destination and moving your mouse over the bottom right to find the image coordinates to input. There will be four numbers separated by commas and no spaces. 
+The far end of the document depicts the royal genealogy of Acatlan. In the image below, zoom in on the ==royal couple=={1914,2190,1998,2194}, where symbols depict their xyz... You can find the zoom by creating the media on this page, zooming in to the destination and moving your mouse over the bottom right to find the image coordinates to input. There will be four numbers separated by commas and no spaces. 
 
 #San Juan Ñumí
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/2328/manifest.json right
