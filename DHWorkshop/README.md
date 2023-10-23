@@ -34,6 +34,13 @@ You can zoom in to see the the artist's depiction of the ==Mexica departing from
     - gh:annhanlon/media/codex-tulane/Acatlan.jpg
     - gh:annhanlon/media/codex-tulane/Chila.jpg
 
+##Comparing images
+You can compare two images in the essay. 
+.ve-media 
+    - https://collections.lib.uwm.edu/iiif/info/celestial/66/manifest.json
+    - https://collections.lib.uwm.edu/iiif/info/celestial/81/manifest.json
+
+
 #Where is all this?
 .ve-map Q34110 8 marker left
 Both of the scrolls featured in this essay were made in the Oaxaca region of Mexico. We are using an OpenStreetMap to mark the location of the Oaxaca region on a map. The way we are pointing to the region in this section is by using the Wikidata ID for ==Oaxaca=={Q34110}, which can be found by looking up Oaxaca in [Wikidata](https://www.wikidata.org/) . 
