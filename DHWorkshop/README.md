@@ -56,7 +56,7 @@ In this example, the cities are identified simply by locating their Wikidata ID.
 [^1]: File accessed from Wikimedia Commons on August 2, 2023, at [https://commons.wikimedia.org/wiki/File:Aztlan_codex_boturini.jpg](https://commons.wikimedia.org/wiki/File:Aztlan_codex_boturini.jpg)
 
 #A note on formatting
-This workshop instructor recommends approaching formatting as simply as possible. Consider the Juncture visual essay a scroll, essentially! We are continuing a long tradition, exemplified by the Codex Tulane.
+This workshop instructor recommends approaching formatting as simply as possible. Dividing your essay into sections under headers seems to be the best way to approach formatting. Additionally, consider the Juncture visual essay a scroll, essentially! We are continuing a long tradition, exemplified by the Codex Tulane.
 .ve-media gh:annhanlon/media/codex-tulane/Codex_Tulane_Full_Scroll.jpg width=60%
 
 
