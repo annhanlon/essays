@@ -6,6 +6,10 @@ This workshop will walk you through the steps to set up a Juncture/GitHub accoun
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/25694/manifest.json right
 Map of Milwaukee as it Appeared in 1835 & 6, Made from U.S. Surveys and from Minutes, furnished by Jas. S. Buck & Dr. E. Chase / Milwaukee, Lith. & Eng. Co. ; G.B. Seaman Del. Showing lots and houses of early settlers of Milwaukee, including Dr. E. Chase and J.S. Buck. "Entered according to act of Congress in year 1876 by Jas. S. Buck with Librarian of Congress."
 
+#Zooming in on a map image
+.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/25694/manifest.json left
+We can zoom in on a specific pixel location (not geographic yet!) by identifying those coordinates and then including them here. To find ==Cabbage Hollow=={3364,2793,1032,1379} in Milwaukee, for example. 
+
 #Where is all this?
 .ve-map Q37836 8 marker left
 The way we are pointing to the region in this section is by using the Wikidata ID for ==Milwaukee=={Q37836}, which can be found by looking up Milwaukee in [Wikidata](https://www.wikidata.org/) . 
