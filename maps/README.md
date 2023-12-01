@@ -3,7 +3,7 @@
 This workshop will walk you through the steps to set up a Juncture/GitHub account and create a simple digital visual essay. You can do a lot with Juncture, but it's also a great jumping-off point to dip your toe into the GitHub, IIIF, geographic location, and Wikidata waters, if you want it to be. 
 
 #Map of Milwaukee, 1835
-.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/25694/manifest.json right
+.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/25694/manifest.json 
 Map of Milwaukee as it Appeared in 1835 & 6, Made from U.S. Surveys and from Minutes, furnished by Jas. S. Buck & Dr. E. Chase / Milwaukee, Lith. & Eng. Co. ; G.B. Seaman Del. Showing lots and houses of early settlers of Milwaukee, including Dr. E. Chase and J.S. Buck. "Entered according to act of Congress in year 1876 by Jas. S. Buck with Librarian of Congress."
 
 #Zooming in on a map image
