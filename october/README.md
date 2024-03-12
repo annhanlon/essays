@@ -27,7 +27,7 @@ You can zoom in to see the the artist's depiction of the ==Mexica departing from
 
 ##Comparing images
 You can compare two images in the essay. 
-.ve-media compare right caption="Comparing two completely different celestial maps"
+.ve-media compare caption="Comparing two completely different celestial maps"
     - https://collections.lib.uwm.edu/iiif/info/celestial/66/manifest.json
     - https://collections.lib.uwm.edu/iiif/info/celestial/81/manifest.json
 
