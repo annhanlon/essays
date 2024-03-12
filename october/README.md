@@ -8,7 +8,7 @@ This workshop will walk you through the steps to set up a Juncture/GitHub accoun
 The context in which this codex was created is unknown, but its purpose clearly is to tell the story of the Otomi people of Huamantla. The center of the painting depicts the migration of a group of ==Otomi=={Q1132647} from Chiapan, in the present-day state of Mexico, to Huamantla, which is located in present-day Tlaxcala state. The migration, which took place in the Post-Classical period, was undertaken under the protection of the goddess Xochiquétzal and of Otontecuhtli, lord of the Otomi and of fire. The glosses contain the names of the leaders who led the migration. In the depiction of Teotihuacan (location of the large pyramids of the Classical period), the pyramids are shown covered in vegetation, i.e., abandoned. In the 16th century, Otomi culture appears to have been permeated with Nahua material culture, language, and mythology; alongside the pyramids is a representation of the Nahua myth of the birth of the sun. The second pictographic group, added above the first by another artist, uses less space and a smaller scale to show the participation of the Otomi in the conquest of Mexico and the lives of the Otomi under Spanish domination.
 
 #Multi-page
-.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/25576/manifest.json
+.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/25576/manifest.json left
 This map is from the April 1936 City of Milwaukee Housing Survey created by the Board of Public Land Commissioners. It consists of multiple pages and includes data on population statistics, land use, transportation, etc. 
 
 #San Juan Ñumí
