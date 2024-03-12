@@ -9,7 +9,7 @@ The context in which this codex was created is unknown, but its purpose clearly 
 
 #Lineage (zooming)
 .ve-media https://www.loc.gov/item/2021667869/manifest.json left 
-The far end of the document depicts the royal genealogy of Acatlan. In the image below, zoom in on the ==royal couple=={1945,2192,1998,2193}, where symbols depict their xyz... You can find the zoom by creating the media on this page, zooming in to the destination and moving your mouse over the bottom right to find the image coordinates to input. There will be four numbers separated by commas and no spaces. 
+This 15th-century manuscript, known as the Riccardiana Virgil, includes the texts of the three extant works of the great Roman poet Virgil, the Bucolics, the Georgics, and the Aeneid, and contains 88 miniature paintings in the lower margin of many of the vellum leaves. This image includes a depiction of ==black sheep=={49,1205,297,451}.  
 
 #San Juan Ñumí
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/2328/manifest.json right
@@ -17,7 +17,7 @@ These images are part of a mid-sixteenth century Mesoamerican painted manuscript
 
 #Tira de Santa Catarina Ixtepeji
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/14325/manifest.json
-This 15th-century manuscript, known as the Riccardiana Virgil, includes the texts of the three extant works of the great Roman poet Virgil, the Bucolics, the Georgics, and the Aeneid, and contains 88 miniature paintings in the lower margin of many of the vellum leaves. This image includes a depiction of ==black sheep=={49,1205,297,451}. 
+
 
 #Using images from Wikimedia Commons
 .ve-media wc:Aztlan_codex_boturini.jpg left
