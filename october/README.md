@@ -25,7 +25,6 @@ Wikimedia Commons describes this image as part of the Boturini Codex. The licens
 
 You can zoom in to see the the artist's depiction of the ==Mexica departing from Aztlán=={200,200,400,400}.
 
-.ve-media wc:Milwaukee_Art_Museum_1_(Mulad).jpg
 
 #Side by side
 .ve-media 
