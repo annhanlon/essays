@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "c4d434b7"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "streetcar",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://cdm17272.contentdm.oclc.org/iiif/2/agdm:25567",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:7600.5419921875,4343.65625,758.388671875,205.982421875"
+      },
+      "id": "3cf3c182"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7905d6f1"
   }
 ]
