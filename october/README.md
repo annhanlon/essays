@@ -9,7 +9,7 @@ The context in which this codex was created is unknown, but its purpose clearly 
 
 #Multi-page
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/25576/manifest.json seq=4 left
-This map is from the April 1936 City of Milwaukee Housing Survey created by the Board of Public Land Commissioners. It consists of multiple pages and includes data on population statistics, land use, transportation, etc. 
+This map is from the April 1936 City of Milwaukee Housing Survey created by the Board of Public Land Commissioners. It consists of multiple pages and includes data on population statistics, land use, transportation, etc. And here, you can zoom into the part of the map that is ==now UWM=={7348,3670,1339,1717}. 
 
 #San Juan Ñumí
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/2328/manifest.json right
