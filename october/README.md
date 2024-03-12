@@ -8,7 +8,7 @@ This workshop will walk you through the steps to set up a Juncture/GitHub accoun
 The context in which this codex was created is unknown, but its purpose clearly is to tell the story of the Otomi people of Huamantla. The center of the painting depicts the migration of a group of ==Otomi=={Q1132647} from Chiapan, in the present-day state of Mexico, to Huamantla, which is located in present-day Tlaxcala state. The migration, which took place in the Post-Classical period, was undertaken under the protection of the goddess Xochiquétzal and of Otontecuhtli, lord of the Otomi and of fire. The glosses contain the names of the leaders who led the migration. In the depiction of Teotihuacan (location of the large pyramids of the Classical period), the pyramids are shown covered in vegetation, i.e., abandoned. In the 16th century, Otomi culture appears to have been permeated with Nahua material culture, language, and mythology; alongside the pyramids is a representation of the Nahua myth of the birth of the sun. The second pictographic group, added above the first by another artist, uses less space and a smaller scale to show the participation of the Otomi in the conquest of Mexico and the lives of the Otomi under Spanish domination.
 
 #Lineage (zooming)
-.ve-media gh:annhanlon/media/codex-tulane/Codex-Tulane.jpg left 
+.ve-media https://www.loc.gov/item/2021667869/manifest.json left 
 The far end of the document depicts the royal genealogy of Acatlan. In the image below, zoom in on the ==royal couple=={1945,2192,1998,2193}, where symbols depict their xyz... You can find the zoom by creating the media on this page, zooming in to the destination and moving your mouse over the bottom right to find the image coordinates to input. There will be four numbers separated by commas and no spaces. 
 
 #San Juan Ñumí
@@ -17,7 +17,7 @@ These images are part of a mid-sixteenth century Mesoamerican painted manuscript
 
 #Tira de Santa Catarina Ixtepeji
 .ve-media https://collections.lib.uwm.edu/iiif/info/agdm/14325/manifest.json
-This manuscript map, known as the Tira de Santa Catarina Ixtepeji and housed at the University of Wisconsin-Milwaukee Library's American Geographical Society Library, is hand-painted and recounts part of the history of Santa Catarina Ixtepeji, in the Ixtlán District in the Sierra Norte region of Oaxaca in southwestern Mexico. The scroll tells the history of leadership and land ownership, and is believed to have been written in both the local Zapotec and Spanish languages. Its purpose was to regularize land titles and ownership in the eyes of the bureaucracy of the Spanish Empire. There are two dates (1691 and 1709 A.D.) inscribed on it that are believed to be the dates it was used as a visual aid in making a presentation to Imperial officials. Similar to the Tulane Codex, this is also post-contact but nearly a century older.
+This 15th-century manuscript, known as the Riccardiana Virgil, includes the texts of the three extant works of the great Roman poet Virgil, the Bucolics, the Georgics, and the Aeneid, and contains 88 miniature paintings in the lower margin of many of the vellum leaves. This image includes a depiction of ==black sheep=={49,1205,297,451}. 
 
 #Using images from Wikimedia Commons
 .ve-media wc:Aztlan_codex_boturini.jpg left
@@ -33,6 +33,7 @@ You can zoom in to see the the artist's depiction of the ==Mexica departing from
     - gh:annhanlon/media/codex-tulane/Acatlan.jpg
     - gh:annhanlon/media/codex-tulane/Chila.jpg
 
+.ve-media https://www.loc.gov/item/2021667869/manifest.json
 
 ##Comparing images
 You can compare two images in the essay. 
