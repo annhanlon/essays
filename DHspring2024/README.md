@@ -23,7 +23,7 @@ These images are part of a mid-sixteenth century Mesoamerican painted manuscript
 .ve-media wc:Aztlan_codex_boturini.jpg left
 Wikimedia Commons describes this image as part of the Boturini Codex. The licensing information indicates that this image is in the public domain. I have used the "left" position tag in order to shrink it to 50% size and position it at the left margin of the screen, with this text on the right. [^1]
 
-You can zoom in to see the the artist's depiction of the ==Mexica departing from Aztlán=={200,200,400,400}.
+You can zoom in to see the artist's depiction of the ==Mexica departing from Aztlán=={200,200,400,400}.
 
 ##Comparing images
 You can compare two images in the essay. 
