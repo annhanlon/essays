@@ -25,6 +25,9 @@ Wikimedia Commons describes this image as part of the Boturini Codex. The licens
 
 You can zoom in to see the artist's depiction of the ==Mexica departing from Aztlán=={200,200,400,400}.
 
+#New section
+.ve-media https://www.loc.gov/item/2021667610/manifest.json
+
 ##Comparing images
 You can compare two images in the essay. 
 .ve-media compare caption="Comparing two completely different celestial maps"
