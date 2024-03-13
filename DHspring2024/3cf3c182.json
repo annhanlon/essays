@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "d8ae6bdf"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Soldier's Home",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://cdm17272.contentdm.oclc.org/iiif/2/agdm:25567",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3053.585693359375,6951.97119140625,1451.238037109375,1039.27392578125"
+      },
+      "id": "3cf3c182"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0ab74dc0"
   }
 ]
