@@ -36,7 +36,7 @@ You can compare two images in the essay.
 
 
 #Where is all this?
-.ve-map Q34110 8 marker left
+.ve-map Q37836 8 marker left
 Both of the scrolls featured in this essay were made in the Oaxaca region of Mexico. We are using an OpenStreetMap to mark the location of the Oaxaca region on a map. The way we are pointing to the region in this section is by using the Wikidata ID for ==Oaxaca=={Q34110}, which can be found by looking up Oaxaca in [Wikidata](https://www.wikidata.org/) . 
 
 #How else could we show the Oaxaca region?
